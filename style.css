@@ -1,3 +1,16 @@
+@font-face {
+    font-family: "gilroy-bold";
+    src: url(./fonts/Gilroy-Bold.ttf);
+}
+@font-face {
+    font-family: "gilroy-light";
+    src: url(./fonts/Gilroy-Light.ttf);
+}
+@font-face {
+    font-family: "gilroy-regular";
+    src: url(./fonts/Gilroy-Regular.ttf);
+}
+
 * {
     padding: 0;
     margin: 0;
